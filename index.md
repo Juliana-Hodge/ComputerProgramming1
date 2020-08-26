@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+![typing test](https://github.com/Juliana-Hodge/ComputerProgramming1/blob/gh-pages/Screenshot%202020-08-26%20at%208.44.55%20AM.png?raw=true)
+
 You can use the [editor on GitHub](https://github.com/Juliana-Hodge/ComputerProgramming1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
